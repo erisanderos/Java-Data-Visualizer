@@ -1,17 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0de44b34-2a37-4294-8a60-0ab2202d45cc" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0de44b34-2a37-4294-8a60-0ab2202d45cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/javaFX/AlertHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Data Visualizer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Data Visualizer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/GenerateGraph$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/GenerateGraph$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/GenerateGraph$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/GenerateGraph$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/GenerateGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/GenerateGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/GraphPaneManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/GraphPaneManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/LineChartStage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/LineChartStage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/PieChartStage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Data Visualizer/com/javaFX/PieChartStage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaFX/ArraySetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaFX/ArraySetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaFX/ExcelHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaFX/ExcelHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaFX/GenerateGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaFX/GenerateGraph.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -19,30 +37,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1QrnppHTCxMuCmUNqyPUoKr5KA9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/poi-bin-4.1.1-20191023/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Application.GenerateGraph">
     <configuration name="GenerateGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaFX.GenerateGraph" />
       <module name="Java Data Visualizer" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path C:\Users\katly\Downloads\openjfx-13.0.1_windows-x64_bin-sdk\javafx-sdk-13.0.1\lib --add-modules javafx.controls,javafx.fxml" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\katly\Downloads\openjfx-13.0.1_windows-x64_bin-sdk\javafx-sdk-13.0.1\lib --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javaFX.*" />
@@ -89,6 +107,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -114,5 +144,76 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Java-Data-Visualizer" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578025583677">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="141" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1578025583677" />
+    <state x="491" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1578087419014">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="491" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1578087419014" />
+    <state x="534" y="327" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578024842526">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="534" y="327" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1368.872@0.0.1368.872" timestamp="1578024842526" />
+    <state x="266" y="93" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1578024838987">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="266" y="93" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1368.872@0.0.1368.872" timestamp="1578024838987" />
+    <state x="110" y="120" width="1148" height="632" key="DiffContextDialog" timestamp="1578025318646">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="110" y="120" width="1148" height="632" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1578025318646" />
+    <state x="409" y="192" key="FileChooserDialogImpl" timestamp="1578025433715">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="409" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1578025433715" />
+    <state width="1292" height="262" key="GridCell.Tab.0.bottom" timestamp="1578089179273">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1578089179273" />
+    <state width="1292" height="262" key="GridCell.Tab.0.center" timestamp="1578089179273">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1578089179273" />
+    <state width="1292" height="262" key="GridCell.Tab.0.left" timestamp="1578089179272">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1578089179272" />
+    <state width="1292" height="262" key="GridCell.Tab.0.right" timestamp="1578089179273">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1578089179273" />
+    <state width="1292" height="262" key="GridCell.Tab.1.bottom" timestamp="1578089179069">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1578089179069" />
+    <state width="1292" height="262" key="GridCell.Tab.1.center" timestamp="1578089179069">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1578089179069" />
+    <state width="1292" height="262" key="GridCell.Tab.1.left" timestamp="1578089179069">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1578089179069" />
+    <state width="1292" height="262" key="GridCell.Tab.1.right" timestamp="1578089179069">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1578089179069" />
+    <state x="187" y="25" key="SettingsEditor" timestamp="1578025439421">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="187" y="25" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1578025439421" />
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1578024625357">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1578024625357" />
   </component>
 </project>
